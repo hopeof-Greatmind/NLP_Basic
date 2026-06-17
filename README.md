@@ -13,8 +13,7 @@ This repository offers practical implementations of both English and Korean NLP 
 
 ### 2. KoBERT-based Emotion and Sentiment Analysis
 - **`NLPEmotion_KoBERT_colab.ipynb`:** A tutorial on performing emotion classification on Korean text using the pre-trained KoBERT model.
-- **`kobert_sentiment_finetunning_colab.ipynb`:** A step-by-step notebook for fine-tuning the KoBERT model for sentiment analysis tasks.
-- **`kobert_sentiment_finetunning_colab_fixed.ipynb` / `..._updated.ipynb`:** Updated and patched versions of the fine-tuning notebook containing bug fixes and performance improvements.
+- **`kobert_sentiment_finetunning_colab_fixed.ipynb` / `..._(update).ipynb`:** Updated and patched versions of the fine-tuning notebook containing bug fixes and performance improvements. You guys all can use this file for fine tuning practice.
 
 ## Prerequisites & Environment
 Since the project consists entirely of Jupyter Notebooks (100%), it is highly recommended to use **Google Colab** to easily access GPU acceleration for the KoBERT fine-tuning tasks. 
