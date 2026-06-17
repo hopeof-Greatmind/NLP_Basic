@@ -1,4 +1,4 @@
-# NLP_Basic (by Prof. Kim 2026.05)
+# NLP_Basic (by Prof. Kim 2026.05, Sookmyung Women's University)
 
 Welcome to the **NLP_Basic** repository. This project provides foundational and advanced Jupyter Notebook tutorials for Natural Language Processing (NLP), focusing on text tokenization and sentiment analysis. It was originally curated by **Prof. Kim (May 2026)** and is designed to run seamlessly in Google Colab or local Jupyter environments.
 
